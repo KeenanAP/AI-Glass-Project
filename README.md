@@ -1,9 +1,4 @@
 # AI-Glass-Project
-Tentu! Berikut adalah contoh README yang lebih lengkap untuk repo AI-Glass-Project, lengkap dengan cara penggunaan dan instalasi menggunakan pip. Jika ada detail khusus tentang fungsionalitas atau dependensi, silakan tambahkan pada bagian yang sesuai.
-
----
-
-# AI-Glass-Project
 
 AI-Glass-Project adalah proyek aplikasi berbasis web yang memanfaatkan kecerdasan buatan untuk [jelaskan tujuan/fitur utama proyek, misal: pengolahan gambar, deteksi objek, dsb.]. Proyek ini dibangun menggunakan HTML dan CSS.
 
